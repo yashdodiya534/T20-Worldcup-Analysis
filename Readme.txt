@@ -38,4 +38,9 @@ what I learned from the overall project:
 Thank you Dhaval Patel Hemanand Vadivel for this beautiful End to End project.
 we are expecting more and more such projects from codebasics.
 
-I have referred NAVEEN S GitHub repo for documentation preparation for this project.
+
+
+
+Linkdin post: 
+
+Live Dashboard: https://www.novypro.com/project/t20-world-cup
